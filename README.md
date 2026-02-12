@@ -64,7 +64,7 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 
 Output:
-```
+
 # Comprehensive Report on the Fundamentals of Generative AI and Large Language Models
 
 ## 1. Introduction
@@ -227,7 +227,6 @@ Examples include GPT, BERT, LLaMA, and PaLM.
 
 Generative AI and Large Language Models represent a major leap in artificial intelligence, enabling machines to create human-like content across multiple domains. With advancements in models, tools, and computational power, AI in 2024 is more accessible, powerful, and impactful than ever. Understanding these fundamentals is essential for students and professionals working in modern technology fields.
 
-```
 
 Result:
 Thus the comprehensive report on the fundamentals of generative AI and large language models is created
