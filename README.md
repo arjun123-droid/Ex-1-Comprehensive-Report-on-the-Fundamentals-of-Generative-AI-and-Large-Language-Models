@@ -1,4 +1,7 @@
 Ex-1 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models.
+# DATE: 29-01-2026
+# REGISTER NUMBER: 25017547
+# NAME: ARJUN R S
 
 Experiment: Develop a comprehensive report for the following exercises:
 
